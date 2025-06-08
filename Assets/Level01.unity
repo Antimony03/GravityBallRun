@@ -1620,13 +1620,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410087039}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 5, z: 0}
+  m_LocalRotation: {x: 0.4041744, y: -0.46896398, z: 0.53244966, w: 0.5772463}
+  m_LocalPosition: {x: -6.3, y: -7.9, z: -60.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 75.02, y: -25.434, z: 65.722}
 --- !u!114 &410087042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2255,7 +2255,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &846761090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2303,8 +2303,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2371,8 +2371,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 19, y: -910.08}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -0.0000019073, y: -41}
+  m_SizeDelta: {x: 200, y: 952.823}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &859599148
 GameObject:
@@ -3895,7 +3895,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0.0000000031827452, y: -0.2932062, z: 0.000000008175719, w: 0.95604926}
   m_LocalPosition: {x: -6.58, y: 0.06, z: -26.5}
-  m_LocalScale: {x: 15, y: 9, z: 1}
+  m_LocalScale: {x: 15, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -5091,7 +5091,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0.0000000031827452, y: -0.2932062, z: 0.000000008175719, w: 0.95604926}
   m_LocalPosition: {x: -0.98, y: 0.1, z: 39.89}
-  m_LocalScale: {x: 15, y: 9, z: 1}
+  m_LocalScale: {x: 15, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
